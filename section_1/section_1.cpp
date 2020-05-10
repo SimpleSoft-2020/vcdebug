@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include "string.h"
 #include <assert.h>
+
 class student
 {
 public:
@@ -47,10 +48,12 @@ void print_student(student& stu)
 }
 int main(int argc, _TCHAR* argv[])
 {
-	test_loop(100);
+	int loop = 100;
+	test_loop(loop);
 	student stu("Jack",90);
 	print_student(stu);
-	student stu2(NULL,90);
+	char *name=NULL;
+	student stu2(name,90);
 	return 0;
 }
 
