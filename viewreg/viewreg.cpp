@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-
+#include <string.h>
 int get_val(int ar1,int ar2,const char* ar3)
 {
 	int data = ar1 * ar1;

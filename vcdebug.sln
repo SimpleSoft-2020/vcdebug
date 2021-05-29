@@ -37,6 +37,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heapcorruption", "heapcorru
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stackoverrun", "stackoverrun\stackoverrun.vcxproj", "{5EDF6BA0-12D7-4F6E-A97C-B066A4AB4F5B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "debugapi", "debugapi\debugapi.vcxproj", "{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tang", "tang\tang.vcxproj", "{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -155,6 +159,18 @@ Global
 		{5EDF6BA0-12D7-4F6E-A97C-B066A4AB4F5B}.Release|Win32.ActiveCfg = Release|Win32
 		{5EDF6BA0-12D7-4F6E-A97C-B066A4AB4F5B}.Release|Win32.Build.0 = Release|Win32
 		{5EDF6BA0-12D7-4F6E-A97C-B066A4AB4F5B}.Release|x64.ActiveCfg = Release|Win32
+		{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}.Debug|Win32.Build.0 = Debug|Win32
+		{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}.Debug|x64.ActiveCfg = Debug|Win32
+		{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}.Release|Win32.ActiveCfg = Release|Win32
+		{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}.Release|Win32.Build.0 = Release|Win32
+		{4C418F84-E77B-48D9-BBA1-7EC506FDC85E}.Release|x64.ActiveCfg = Release|Win32
+		{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}.Debug|Win32.Build.0 = Debug|Win32
+		{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}.Debug|x64.ActiveCfg = Debug|Win32
+		{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}.Release|Win32.ActiveCfg = Release|Win32
+		{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}.Release|Win32.Build.0 = Release|Win32
+		{40AB3B9A-058E-4D7D-AEF1-7E31F66D27A1}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
