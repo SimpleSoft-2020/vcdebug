@@ -1,4 +1,8 @@
 # vcdebug
+# 完整教学视频
+
+https://edu.51cto.com/course/23263.html
+
 # Visual Studio C++调试入门与提高
 课程内容：
 
@@ -44,8 +48,5 @@
 
     3.7 调试发行版以及同时调试多个程序
 
-# 完整教学视频
-
-https://edu.51cto.com/course/23263.html
 
 
